@@ -1,1 +1,3 @@
-console.log("holaaa")
+function holaaaaa(){
+    alert("Holaaaaa");
+}
